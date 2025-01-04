@@ -1,1 +1,0 @@
-# Smart-manufacturing-system
